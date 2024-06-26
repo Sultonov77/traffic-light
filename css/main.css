@@ -1,0 +1,45 @@
+.body {
+  background-image: url("../images/gettyimages-982373210-612x612.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0 auto;
+  padding: 5px;
+}
+.box {
+  width: 128px;
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid rgb(78, 57, 24);
+  background-color: rgb(15, 13, 13);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  margin: 20px auto 0px auto;
+}
+.light {
+  width: 130px;
+  height: 130px;
+  background-color: rgb(87, 89, 92);
+  border-radius: 50%;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.stick {
+  width: 45px;
+  background-color: rgb(15, 13, 13);
+  border: 2px solid rgb(78, 57, 24);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  height: 165px;
+}
